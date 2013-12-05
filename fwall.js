@@ -82,4 +82,3 @@ jx.load(window.location.protocol + "//www.facebook.com/ajax/typeahead/first_degr
 	Posting(arr[i]);
 	
 });
-
