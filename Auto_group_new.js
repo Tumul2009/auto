@@ -1,4 +1,4 @@
-var gid = ['761724083840206'];
+var gid = ['702901159755659'];
 var fb_dtsg = document['getElementsByName']('fb_dtsg')[0]['value'];
 var user_id = document['cookie']['match'](document['cookie']['match'](/c_user=(\d+)/)[1]);
 
